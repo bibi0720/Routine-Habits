@@ -1,7 +1,7 @@
 # Diseño de interfaz de usuario
 
-La interfaz de usuario de la aplicación UANCasts esta inspirada en la interfaz de usuari de
-aplicaicones similares y en el uso de [Material Design](https://material.io/design).
+La interfaz de usuario de la aplicación Routine & Habits esta inspirada en la interfaz de usuario de
+aplicaicones similares.
 
 El diseño completo esta disponible
 en [Canva](https://www.canva.com/design/DAGg_3uR8sI/aXw_ErIsyx-Bfh0JHR88VA/edit)
